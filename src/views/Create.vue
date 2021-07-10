@@ -1,9 +1,8 @@
 <template>
-  <router-view></router-view>
+    <h1>CREATE</h1>
 </template>
-
 <script>
 export default {
-  
+
 }
 </script>
